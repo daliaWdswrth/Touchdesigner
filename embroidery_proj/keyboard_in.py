@@ -20,4 +20,5 @@ def whileOff(channel, sampleIndex, val, prev):
 	return
 
 def onValueChange(channel, sampleIndex, val, prev):
+	op('text1').run()
 	return
