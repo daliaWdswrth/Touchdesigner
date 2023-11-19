@@ -3,17 +3,17 @@
 GLSL stands for OpenGL Shading Language. A programming language which allows a web application to communicate with a graphics card to display 2D to 3D effects on browser. Browser -> GLSL -> GPU (monitor)
 
  ## Comments:
-    * Double slash (single line)
-    * Slash-asterisk (longer comments)
+* Double slash (single line)
+* Slash-asterisk (longer comments)
 ## Variables & Constants
-    * Specify the type of data to be stored in variable beforehand
-    * Constants are the same
+* Specify the type of data to be stored in variable beforehand
+* Constants are the same
 ## Types
-    * Int, float, bool
-    * Characters and strings don’t exist in this language
-    * Once we have assigned a type to a variable, we can’t change it’s value later w/out a conversion function
-    * Regular operations/arithmetic operators exist
-    * Vectors & Matrices
+* Int, float, bool
+* Characters and strings don’t exist in this language
+* Once we have assigned a type to a variable, we can’t change it’s value later w/out a conversionfunction
+* Regular operations/arithmetic operators exist
+* Vectors & Matrices
         * Similar to objects in object-oriented languages
         * Entities composed of basic types
         * Resources for the math behind these types:
