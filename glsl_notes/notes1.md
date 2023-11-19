@@ -14,10 +14,10 @@ GLSL stands for OpenGL Shading Language. A programming language which allows a w
 * Once we have assigned a type to a variable, we can’t change it’s value later w/out a conversionfunction
 * Regular operations/arithmetic operators exist
 * Vectors & Matrices
-        * Similar to objects in object-oriented languages
-        * Entities composed of basic types
-        * Resources for the math behind these types:
-            * Freya Holmér - youtube
+*       Similar to objects in object-oriented languages
+*       Entities composed of basic types
+*       Resources for the math behind these types:
+*       Freya Holmér - youtube
 
 ### Vectors:
 #### Types
