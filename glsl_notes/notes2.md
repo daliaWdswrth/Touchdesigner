@@ -1,7 +1,7 @@
 # GLSL Notes 2
 
 ## Shaders
-A program written in GLSL. There are two types:
+A shader is a program written in GLSL. There are two types:
 * vertex shader
     * every object in 3D (point, text, shape) has number of vertices
     * role is to take care of positioning every vertex
